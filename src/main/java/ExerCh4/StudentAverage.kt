@@ -14,9 +14,9 @@ class StudentAverage {
 
         return when (average) {
             in 90f..100f -> 4
-            in 80f..89.0f -> 3
-            in 70f..79.0f -> 2
-            in 60f..69.0f -> 1
+            in 80f..89.9f -> 3
+            in 70f..79.9f -> 2
+            in 60f..69.9f -> 1
             else -> 0
         }
     }

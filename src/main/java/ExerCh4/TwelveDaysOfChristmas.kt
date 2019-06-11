@@ -15,20 +15,20 @@ class TwelveDaysOfChristmas {
     private val DRUMMERS : String = "DRUMMERS"
 
     fun getItem(given: Int): String {
-        when (given){
-            1 -> return PARTRIDGE
-            2 -> return TURTLEDOVES
-            3 -> return FRENCHHENS
-            4 -> return CALLINGBIRDS
-            5 -> return GOLDRINGS
-            6 -> return GEESE
-            7 -> return SWANS
-            8 -> return MAIDS
-            9 -> return LADIES
-            10 -> return LORDS
-            11 -> return PIPERS
-            12 -> return DRUMMERS
+        return when (given){
+            1 -> PARTRIDGE
+            2 -> TURTLEDOVES
+            3 -> FRENCHHENS
+            4 -> CALLINGBIRDS
+            5 -> GOLDRINGS
+            6 -> GEESE
+            7 -> SWANS
+            8 -> MAIDS
+            9 -> LADIES
+            10 -> LORDS
+            11 -> PIPERS
+            12 -> DRUMMERS
+            else -> ""
         }
-        return ""
     }
 }
