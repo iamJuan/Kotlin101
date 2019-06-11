@@ -1,4 +1,4 @@
-package ch3
+package ch3.BasicInheritance
 
 class RealDuck : Duck, Jump, Swim {
     constructor() : super(false, true, 1)

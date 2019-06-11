@@ -1,4 +1,4 @@
-package ch3
+package ch3.BasicInheritance
 
 class DuckFactory{
     fun getDuck(type : String) : Duck? {

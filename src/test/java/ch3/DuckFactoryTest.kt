@@ -1,5 +1,8 @@
 package ch3
 
+import ch3.BasicInheritance.DuckFactory
+import ch3.BasicInheritance.RealDuck
+import ch3.BasicInheritance.ToyDuck
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 

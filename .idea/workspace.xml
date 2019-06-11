@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a743d4d4-fd16-48fc-b635-39fdbfdda00e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmas.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmas.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch3/Duck.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch3/Duck.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ExerCh4/TwelveDaysOfChristmasTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExerCh4/TwelveDaysOfChristmasTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ch4/localfunctions/FizzBuzzTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch3/Duck.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/Duck.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch3/DuckFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/DuckFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch3/Jump.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/Jump.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch3/RealDuck.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/RealDuck.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch3/Swim.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/Swim.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch3/ToyDuck.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/ToyDuck.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ch3/DuckFactoryTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ch3/DuckFactoryTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ExerCh4/CreditLimit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ExerCh4/CreditLimit.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ExerCh4/DrivingCostCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ExerCh4/DrivingCostCalculator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ExerCh4/TwelveDaysOfChristmas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ExerCh4/TwelveDaysOfChristmas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ExerCh4/TwelveDaysOfChristmasTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ExerCh4/TwelveDaysOfChristmasTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,30 +30,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ExerCh4/Christmas12Days.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch4/localfunctions/FizzBuzz.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmas.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            <state relative-caret-position="78">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ExerCh4/TwelveDaysOfChristmasTest.kt">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ch4/localfunctions/FizzBuzzTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="234">
+              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
               <folding>
-                <element signature="e#17#103#0" expanded="true" />
+                <element signature="e#28#103#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,8 +58,8 @@
         <option value="Kotlin Enum" />
         <option value="Kotlin Class" />
         <option value="Kotlin Interface" />
-        <option value="JUnit5 Test Class" />
         <option value="Kotlin File" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -117,8 +115,11 @@
         <option value="$PROJECT_DIR$/src/main/java/ch3/Duck.kt" />
         <option value="$PROJECT_DIR$/src/test/java/ch3/DuckFactoryTest.kt" />
         <option value="$PROJECT_DIR$/src/main/java/ExerCh4/Christmas12Days.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmas.kt" />
         <option value="$PROJECT_DIR$/src/test/java/ExerCh4/TwelveDaysOfChristmasTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmas.kt" />
+        <option value="$PROJECT_DIR$/src/test/java/ch4/localfunctions/FizzBuzzTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ch4/localfunctions/FizzBuzz.kt" />
+        <option value="$PROJECT_DIR$/src/test/java/ch4/localfunctions/FizzBuzzTest.kt" />
       </list>
     </option>
   </component>
@@ -177,15 +178,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ch3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin101" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin101" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ExerCh4" type="462c0819:PsiDirectoryNode" />
+              <item name="localfunctions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kotlin101" type="b2602c69:ProjectViewProjectNode" />
@@ -224,8 +217,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ch4.localfunctions" />
       <recent name="ch3" />
       <recent name="ExerCh4" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="ch3.BasicInheritance" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -243,7 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TwelveDaysOfChristmasTest">
+  <component name="RunManager" selected="JUnit.FizzBuzzTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -266,18 +263,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegersWithSpaceTest.test_getIntWithSpaces_when_4526_then_4__5__2__6$kotlin101" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kotlin101" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerCh4.*" />
+          <option name="PATTERN" value="ch4.localfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ExerCh4" />
-      <option name="MAIN_CLASS_NAME" value="ExerCh4.IntegersWithSpaceTest" />
-      <option name="METHOD_NAME" value="test_getIntWithSpaces_when_4526_then_4__5__2__6$kotlin101" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="ch4.localfunctions" />
+      <option name="MAIN_CLASS_NAME" value="ch4.localfunctions.FizzBuzzTest" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -349,11 +345,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FizzBuzzTest" />
         <item itemvalue="JUnit.TwelveDaysOfChristmasTest" />
         <item itemvalue="JUnit.DuckFactoryTest" />
         <item itemvalue="JUnit.StudentAverageTest" />
         <item itemvalue="JUnit.PerfectNumberTest" />
-        <item itemvalue="JUnit.IntegersWithSpaceTest.test_getIntWithSpaces_when_4526_then_4__5__2__6$kotlin101" />
       </list>
     </recent_temporary>
   </component>
@@ -371,18 +367,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StudentAverageTest - 2019.06.10 at 09h 15m 23s.xml">
-      <configuration name="StudentAverageTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DuckFactoryTest - 2019.06.10 at 18h 00m 39s.xml">
-      <configuration name="DuckFactoryTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DuckFactoryTest - 2019.06.11 at 08h 30m 13s.xml">
-      <configuration name="DuckFactoryTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DuckFactoryTest - 2019.06.11 at 08h 36m 50s.xml">
-      <configuration name="DuckFactoryTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DuckFactoryTest - 2019.06.11 at 16h 16m 01s.xml">
       <configuration name="DuckFactoryTest" configurationId="JUnit" />
     </history-entry>
@@ -401,12 +385,24 @@
     <history-entry file="TwelveDaysOfChristmasTest - 2019.06.11 at 16h 47m 45s.xml">
       <configuration name="TwelveDaysOfChristmasTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TwelveDaysOfChristmasTest - 2019.06.11 at 16h 49m 19s.xml">
+      <configuration name="TwelveDaysOfChristmasTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTest - 2019.06.11 at 17h 12m 35s.xml">
+      <configuration name="FizzBuzzTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTest - 2019.06.11 at 17h 14m 43s.xml">
+      <configuration name="FizzBuzzTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTest - 2019.06.11 at 17h 19m 43s.xml">
+      <configuration name="FizzBuzzTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -417,7 +413,7 @@
       <window_info id="Learn" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32869378" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32869378" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -641,35 +637,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/Jump.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/Jump.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/Swim.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/Swim.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/ToyDuck.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/ToyDuck.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/Duck.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/Duck.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/DuckFactory.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/DuckFactory.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
@@ -686,7 +682,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/RealDuck.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/RealDuck.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
@@ -702,8 +698,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmas.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="312">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -713,6 +709,23 @@
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#17#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch4/localfunctions/FizzBuzz.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ch4/localfunctions/FizzBuzzTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="e#28#103#0" expanded="true" />
           </folding>
         </state>
       </provider>
