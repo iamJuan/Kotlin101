@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a743d4d4-fd16-48fc-b635-39fdbfdda00e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ch3/DuckFactoryTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ExerCh4/StudentAverage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExerCh4/StudentAverage.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmas.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmas.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch3/Duck.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch3/Duck.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ExerCh4/TwelveDaysOfChristmasTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExerCh4/TwelveDaysOfChristmasTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ExerCh4/CreditLimit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ExerCh4/CreditLimit.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ExerCh4/DrivingCostCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ExerCh4/DrivingCostCalculator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ExerCh4/TwelveDaysOfChristmas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ExerCh4/TwelveDaysOfChristmas.class" afterDir="false" />
@@ -24,67 +23,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ch3/Duck.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ExerCh4/Christmas12Days.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="52">
-              <caret line="2" column="10" selection-start-line="2" selection-end-line="2" selection-end-column="10" />
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ch3/DuckFactory.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmas.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            <state relative-caret-position="494">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ch3/DuckFactoryTest.kt">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ExerCh4/TwelveDaysOfChristmasTest.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="364">
-              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <element signature="e#13#88#0" expanded="true" />
+                <element signature="e#17#103#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ch3/DuckReal.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ch3/DuckToy.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="7" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ch3/Jump.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ch3/Swim.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -121,7 +84,6 @@
         <option value="$PROJECT_DIR$/src/test/java/ExerCh4/SmallestIntTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ExerCh4/SmallestInt.kt" />
         <option value="$PROJECT_DIR$/src/test/java/ExerCh4/TwelveDaysOfChristmasTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ExerCh4/TwelveDaysOfChristmasTest.kt" />
         <option value="$PROJECT_DIR$/src/test/java/ExerCh4/SmallestIntTest.kt" />
         <option value="$PROJECT_DIR$/src/main/java/ExerCh4/CreditLimit.kt" />
         <option value="$PROJECT_DIR$/src/test/java/ExerCh4/CreditLimitTest.kt" />
@@ -140,7 +102,6 @@
         <option value="$PROJECT_DIR$/src/test/java/ExerCh4/StudentAverageTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ExerCh4/StudentAverageTest.kt" />
         <option value="$PROJECT_DIR$/src/main/java/ExerCh4/StudentAverage.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmas.kt" />
         <option value="$PROJECT_DIR$/src/main/java/ch3/Shape.kt" />
         <option value="$PROJECT_DIR$/src/main/java/ch3/Car.kt" />
         <option value="$PROJECT_DIR$/src/main/java/ch3/Vehicle.kt" />
@@ -149,12 +110,15 @@
         <option value="$PROJECT_DIR$/src/main/java/ch3/Jump.kt" />
         <option value="$PROJECT_DIR$/src/main/java/ch3/Swim.kt" />
         <option value="$PROJECT_DIR$/src/main/java/ch3/EasyDuck.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ch3/Duck.kt" />
         <option value="$PROJECT_DIR$/src/main/java/ch3/DuckTOy.kt" />
         <option value="$PROJECT_DIR$/src/main/java/ch3/DuckToy.kt" />
         <option value="$PROJECT_DIR$/src/main/java/ch3/DuckReal.kt" />
         <option value="$PROJECT_DIR$/src/main/java/ch3/DuckFactory.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/ch3/Duck.kt" />
         <option value="$PROJECT_DIR$/src/test/java/ch3/DuckFactoryTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/Christmas12Days.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmas.kt" />
+        <option value="$PROJECT_DIR$/src/test/java/ExerCh4/TwelveDaysOfChristmasTest.kt" />
       </list>
     </option>
   </component>
@@ -279,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DuckFactoryTest">
+  <component name="RunManager" selected="JUnit.TwelveDaysOfChristmasTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -319,22 +283,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParkingGarageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kotlin101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExerCh4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ExerCh4" />
-      <option name="MAIN_CLASS_NAME" value="ExerCh4.ParkingGarageTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PerfectNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kotlin101" />
       <extension name="coverage">
@@ -367,6 +315,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwelveDaysOfChristmasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kotlin101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExerCh4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ExerCh4" />
+      <option name="MAIN_CLASS_NAME" value="ExerCh4.TwelveDaysOfChristmasTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -385,11 +349,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TwelveDaysOfChristmasTest" />
         <item itemvalue="JUnit.DuckFactoryTest" />
         <item itemvalue="JUnit.StudentAverageTest" />
         <item itemvalue="JUnit.PerfectNumberTest" />
         <item itemvalue="JUnit.IntegersWithSpaceTest.test_getIntWithSpaces_when_4526_then_4__5__2__6$kotlin101" />
-        <item itemvalue="JUnit.ParkingGarageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -407,15 +371,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StudentAverageTest - 2019.06.07 at 17h 27m 44s.xml">
-      <configuration name="StudentAverageTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentAverageTest - 2019.06.07 at 17h 30m 24s.xml">
-      <configuration name="StudentAverageTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StudentAverageTest - 2019.06.07 at 17h 31m 36s.xml">
-      <configuration name="StudentAverageTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StudentAverageTest - 2019.06.10 at 09h 15m 23s.xml">
       <configuration name="StudentAverageTest" configurationId="JUnit" />
     </history-entry>
@@ -436,6 +391,15 @@
     </history-entry>
     <history-entry file="DuckFactoryTest - 2019.06.11 at 16h 35m 02s.xml">
       <configuration name="DuckFactoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DuckFactoryTest - 2019.06.11 at 16h 35m 49s.xml">
+      <configuration name="DuckFactoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DuckFactoryTest - 2019.06.11 at 16h 36m 01s.xml">
+      <configuration name="DuckFactoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwelveDaysOfChristmasTest - 2019.06.11 at 16h 47m 45s.xml">
+      <configuration name="TwelveDaysOfChristmasTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -550,16 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExerCh4/TwelveDaysOfChristmasTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#17#103#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ExerCh4/SmallestIntTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -666,13 +620,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmas.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ExerCh4/StudentAverage.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -694,13 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/Swim.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ch3/Jump.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -708,40 +648,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/Swim.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/ToyDuck.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ch3/Duck.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
-          <caret line="2" column="10" selection-start-line="2" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/DuckToy.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/DuckReal.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ch3/DuckFactory.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ch3/DuckFactoryTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        <state relative-caret-position="234">
+          <caret line="15" column="57" lean-forward="true" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
           <folding>
             <element signature="e#13#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/RealDuck.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExerCh4/Christmas12Days.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmas.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExerCh4/TwelveDaysOfChristmasTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#17#103#0" expanded="true" />
           </folding>
         </state>
       </provider>

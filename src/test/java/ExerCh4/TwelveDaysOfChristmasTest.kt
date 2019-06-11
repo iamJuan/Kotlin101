@@ -8,16 +8,16 @@ internal class TwelveDaysOfChristmasTest{
 
     @Test
     internal fun test_twelveDaysOfChristmas_when_1_then_return_PARTRIDGE() {
-        assertEquals("PARTRIDGE", twelveDaysOfChristmas.getItem(1))
+        assertEquals(Christmas12Days.PARTRIDGE, twelveDaysOfChristmas.getItem(1))
     }
 
     @Test
     internal fun test_twelveDaysOfChristmas_when_8_then_return_MAIDS() {
-        assertEquals("MAIDS", twelveDaysOfChristmas.getItem(8))
+        assertEquals(Christmas12Days.MAIDS, twelveDaysOfChristmas.getItem(8))
     }
 
     @Test
     internal fun test_twelveDaysOfChristmas_when_12_then_return_DRUMMERS() {
-        assertEquals("DRUMMERS", twelveDaysOfChristmas.getItem(12))
+        assertEquals(Christmas12Days.DRUMMERS, twelveDaysOfChristmas.getItem(12))
     }
 }
