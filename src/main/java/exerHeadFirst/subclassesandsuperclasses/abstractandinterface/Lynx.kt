@@ -1,0 +1,3 @@
+package exerHeadFirst.subclassesandsuperclasses.abstractandinterface
+
+class Lynx
