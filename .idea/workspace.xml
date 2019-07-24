@@ -2,25 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a743d4d4-fd16-48fc-b635-39fdbfdda00e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_0_M1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_0_M1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kotlin101.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin101.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin101/META-INF/kotlin101.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/kotlin101/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ExerCh4/PerfectNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExerCh4/PerfectNumber.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ExerCh4/CreditLimit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ExerCh4/CreditLimit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ExerCh4/DrivingCostCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ExerCh4/DrivingCostCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ExerCh4/TwelveDaysOfChristmas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ExerCh4/TwelveDaysOfChristmas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/classesandobjects/Dog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/classesandobjects/Dog.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/classesandobjects/DogTesting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/classesandobjects/DogTesting.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/classesandobjects/DrumKit.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/classesandobjects/DrumKit.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/classesandobjects/DrumKitTesting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/classesandobjects/DrumKitTesting.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/kotlinbasics/Game.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/kotlinbasics/Game.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/kotlinbasics/Hobbits.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/kotlinbasics/Hobbits.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/Animal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Animal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/AnimalsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/AnimalsTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/Canine.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Canine.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/Cheetah.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Cheetah.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/Feline.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Feline.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/Fox.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Fox.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/Hippo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Hippo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/Lion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Lion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/Lynx.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Lynx.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/Roamable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Roamable.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/Vehicle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Vehicle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/Vet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Vet.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/Wolf.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Wolf.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/superandsub/Animal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Animal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/superandsub/AnimalsTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/AnimalsTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/superandsub/Canine.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Canine.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/superandsub/Cheetah.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Cheetah.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/superandsub/Feline.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Feline.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/superandsub/Fox.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Fox.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/superandsub/Hippo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Hippo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/superandsub/Lion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Lion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/superandsub/Lynx.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Lynx.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/superandsub/Vet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Vet.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/superandsub/Wolf.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Wolf.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/META-INF/kotlin101.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/kotlin101.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ExerCh4/TwelveDaysOfChristmasTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ExerCh4/TwelveDaysOfChristmasTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,26 +48,16 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Animal.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/Animal.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Enum" />
-        <option value="Kotlin Class" />
-        <option value="Kotlin Interface" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -65,57 +68,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/Palindrome.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/ExerCh4/DrivingCostCalculatorTest.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/ExerCh4/SmallestIntTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/SmallestInt.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/ExerCh4/TwelveDaysOfChristmasTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ExerCh4/SmallestIntTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/CreditLimit.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/ExerCh4/CreditLimitTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/DrivingCostCalculator.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmasItems.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmasEnum.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/ExerCh4/ParkingGarageTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/ParkingGarage.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/ExerCh4/ParkingGarageTest.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/ExerCh4/IntegersWithSpaceTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/IntegersWithSpace.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/ExerCh4/IntegersWithSpaceTest.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/ExerCh4/PerfectNumberTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ExerCh4/PerfectNumberTest.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/ExerCh4/StudentAverageTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ExerCh4/StudentAverageTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/StudentAverage.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ch3/Shape.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ch3/Car.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ch3/Vehicle.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ch3/Movement.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/ch3/DuckFactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ch3/Jump.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ch3/Swim.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ch3/EasyDuck.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ch3/DuckTOy.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ch3/DuckToy.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ch3/DuckReal.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ch3/DuckFactory.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ch3/Duck.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/ch3/DuckFactoryTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/Christmas12Days.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/ExerCh4/TwelveDaysOfChristmasTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmas.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/ch4/localfunctions/FizzBuzzTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ch4/localfunctions/FizzBuzz.kt" />
-        <option value="$PROJECT_DIR$/src/test/java/ch4/localfunctions/FizzBuzzTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/ExerCh4/PerfectNumber.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/Hobbits.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/Game.java" />
-        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/Game.kt" />
         <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/kotlinbasics/Game.kt" />
         <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/classesandobjects/DrumKit.kt" />
         <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/classesandobjects/DrumKitTesting.kt" />
         <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/classesandobjects/DogTesting.kt" />
         <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/classesandobjects/Dog.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/Lion.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/Cheetah.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/Lynx.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/Fox.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/FelineImpl.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/Feline.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/Animal.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/Hippo.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/Canine.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/Wolf.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/Animals/Wolf.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/Animals/Vet.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/Animals/AnimalsTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/Animals/Cheetah.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/Animals/Fox.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/RealDuck.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/Jump.kt" />
+        <option value="$PROJECT_DIR$/src/test/java/ch3/DuckFactoryTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/ToyDuck.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/Duck.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/animalsv2/Fox.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/animalsv2/AnimalsTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/animalsv2/Cheetah.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/animalsv2/Hippo.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/animalsv2/Lion.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/animalsv2/Lynx.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/animalsv2/Vet.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/animalsv2/Wolf.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/animalsv2/Feline.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/animalsv2/Canine.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/animalsv2/Animal.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/animalsv2/Roamable.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/withinterface/Roamable.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/Vehicle.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/Animal.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/Roamable.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/abstractandinterface/AnimalsTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/AnimalsTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/headfirstkotlin/dataclasses/Recipes.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/headfirstkotlin/dataclassandoverloadinganddefaultvalues/Recipes.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/headfirstkotlin/dataclass/Recipes.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/headfirstkotlin/dataclass/overloadinganddefaultparams/RecipesF.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/headfirstkotlin/dataclass/overloadinganddefaultparams/RecipesFinal.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/headfirstkotlin/dataclass/overloadinganddefaultparams/Recipes.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/headfirstkotlin/dataclass/overloadinganddefaultparams/Mushroom.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/headfirstkotlin/dataclass/overloadinganddefaultparams/RecipesFinalTest.kt" />
       </list>
     </option>
   </component>
@@ -142,7 +145,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,24 +177,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ExerCh4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin101" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin101" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exerHeadFirst" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin101" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin101" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exerHeadFirst" type="462c0819:PsiDirectoryNode" />
-              <item name="subclassesandsuperclasses" type="462c0819:PsiDirectoryNode" />
+              <item name="headfirstkotlin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kotlin101" type="b2602c69:ProjectViewProjectNode" />
@@ -205,12 +191,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin101" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin101" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ch3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -221,19 +215,26 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="exerHeadFirst.subclassesandsuperclasses.Animals" />
+      <recent name="ch3.BasicInheritance" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="exerHeadFirst.subclassesandsuperclasses" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="ch4.localfunctions" />
       <recent name="ch3" />
       <recent name="ExerCh4" />
     </key>
-    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
-      <recent name="ch3.BasicInheritance" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Android\kotlin101\src\main\java\exerHeadFirst\subclassesandsuperclasses\animalsv2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\Android\kotlin101\src\main\java\exerHeadFirst\kotlinbasics" />
@@ -251,29 +252,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.exerHeadFirst.classesandobjects.DogTestingKt">
+  <component name="RunManager" selected="Kotlin.headfirstkotlin.dataclass.overloadinganddefaultparams.RecipesFinalTestKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method>
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="All in kotlin101" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kotlin101" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -294,44 +278,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exerHeadFirst.classesandobjects.DogTestingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="headfirstkotlin.classesandobjects.DogTestingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin101" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="exerHeadFirst.classesandobjects.DogTestingKt" />
+      <option name="MAIN_CLASS_NAME" value="headfirstkotlin.classesandobjects.DogTestingKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="exerHeadFirst.classesandobjects.DrumKitTestingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="headfirstkotlin.dataclass.RecipesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin101" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="exerHeadFirst.classesandobjects.DrumKitTestingKt" />
+      <option name="MAIN_CLASS_NAME" value="headfirstkotlin.dataclass.RecipesKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="exerHeadFirst.kotlinbasics.GameKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="headfirstkotlin.dataclass.overloadinganddefaultparams.RecipesFinalTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin101" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="exerHeadFirst.kotlinbasics.GameKt" />
+      <option name="MAIN_CLASS_NAME" value="headfirstkotlin.dataclass.overloadinganddefaultparams.RecipesFinalTestKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="exerHeadFirst.kotlinbasics.HobbitsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="headfirstkotlin.subclassesandsuperclasses.abstractandinterface.AnimalsTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlin101" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="exerHeadFirst.kotlinbasics.HobbitsKt" />
+      <option name="MAIN_CLASS_NAME" value="headfirstkotlin.subclassesandsuperclasses.abstractandinterface.AnimalsTestKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="headfirstkotlin.subclassesandsuperclasses.superandsub.AnimalsTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin101" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="headfirstkotlin.subclassesandsuperclasses.superandsub.AnimalsTestKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -360,19 +354,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.All in kotlin101" />
-      <item itemvalue="Kotlin.exerHeadFirst.kotlinbasics.HobbitsKt" />
-      <item itemvalue="Kotlin.exerHeadFirst.kotlinbasics.GameKt" />
-      <item itemvalue="Kotlin.exerHeadFirst.classesandobjects.DogTestingKt" />
-      <item itemvalue="Kotlin.exerHeadFirst.classesandobjects.DrumKitTestingKt" />
+      <item itemvalue="Kotlin.headfirstkotlin.classesandobjects.DogTestingKt" />
+      <item itemvalue="Kotlin.headfirstkotlin.subclassesandsuperclasses.superandsub.AnimalsTestKt" />
+      <item itemvalue="Kotlin.headfirstkotlin.subclassesandsuperclasses.abstractandinterface.AnimalsTestKt" />
+      <item itemvalue="Kotlin.headfirstkotlin.dataclass.RecipesKt" />
+      <item itemvalue="Kotlin.headfirstkotlin.dataclass.overloadinganddefaultparams.RecipesFinalTestKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.exerHeadFirst.classesandobjects.DogTestingKt" />
-        <item itemvalue="Kotlin.exerHeadFirst.classesandobjects.DrumKitTestingKt" />
-        <item itemvalue="Kotlin.exerHeadFirst.kotlinbasics.GameKt" />
-        <item itemvalue="Kotlin.exerHeadFirst.kotlinbasics.HobbitsKt" />
-        <item itemvalue="JUnit.All in kotlin101" />
+        <item itemvalue="Kotlin.headfirstkotlin.dataclass.overloadinganddefaultparams.RecipesFinalTestKt" />
+        <item itemvalue="Kotlin.headfirstkotlin.dataclass.RecipesKt" />
+        <item itemvalue="Kotlin.headfirstkotlin.subclassesandsuperclasses.abstractandinterface.AnimalsTestKt" />
+        <item itemvalue="Kotlin.headfirstkotlin.subclassesandsuperclasses.superandsub.AnimalsTestKt" />
+        <item itemvalue="Kotlin.headfirstkotlin.classesandobjects.DogTestingKt" />
       </list>
     </recent_temporary>
   </component>
@@ -387,6 +381,8 @@
       <option name="presentableId" value="Default" />
       <updated>1558567202190</updated>
       <workItem from="1561982460966" duration="35000" />
+      <workItem from="1562156850890" duration="5000" />
+      <workItem from="1562156947292" duration="25000" />
     </task>
     <servers />
   </component>
@@ -423,7 +419,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35000" />
+    <option name="totallyTimeSpent" value="65000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -436,43 +432,42 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.3297414" />
       <window_info id="DB Browser" order="4" />
-      <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49626866" weight="0.3297414" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50586355" side_tool="true" visible="true" weight="0.3286638" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49840087" weight="0.3297414" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49413645" visible="true" weight="0.3286638" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4989339" weight="0.3297414" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50852877" side_tool="true" visible="true" weight="0.3286638" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49840087" weight="0.3297414" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4914712" weight="0.3286638" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4989339" weight="0.3297414" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2803838" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29637527" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993576" />
+      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.49413645" weight="0.3297414" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="10" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Learn" order="8" />
-      <window_info anchor="right" id="Maven" order="8" weight="0.32995737" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Debug with VisualVM" order="12" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="12" />
+      <window_info id="Learn" order="8" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32995737" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="14" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,11 +475,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -532,193 +522,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/DuckFactory.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/Jump.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/RealDuck.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/Swim.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/ToyDuck.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch4/localfunctions/FizzBuzz.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ch4/localfunctions/FizzBuzzTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExerCh4/CreditLimitTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch4/localfunctions/FizzBuzz.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ch4/localfunctions/FizzBuzzTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kotlin101.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2128">
-          <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExerCh4/PalindromeTestTest.kt" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExerCh4/DrivingCostCalculatorTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="910">
-          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExerCh4/SmallestIntTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExerCh4/TwelveDaysOfChristmasEnum.kt" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExerCh4/ParkingGarageTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExerCh4/PerfectNumberTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExerCh4/StudentAverageTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExerCh4/PalindromeTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ch3/DuckFactoryTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="57" lean-forward="true" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExerCh4/TwelveDaysOfChristmasTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExerCh4/CreditLimitTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ch4/localfunctions/FizzBuzzTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExerCh4/CreditLimit.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExerCh4/DrivingCostCalculator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExerCh4/IntegersWithSpace.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExerCh4/Palindrome.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ExerCh4/ParkingGarage.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -761,48 +564,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/Duck.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/DuckFactory.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/Jump.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/RealDuck.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/Swim.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/ToyDuck.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ExerCh4/IntegersWithSpaceTest.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -818,52 +579,291 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exerHeadFirst/Game.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/exerHeadFirst/kotlinbasics/Game.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/kotlinbasics/Game.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exerHeadFirst/kotlinbasics/Hobbits.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/kotlinbasics/Hobbits.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exerHeadFirst/classesandobjects/Dog.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/classesandobjects/Dog.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exerHeadFirst/classesandobjects/DrumKit.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/classesandobjects/DrumKit.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exerHeadFirst/classesandobjects/DrumKitTesting.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/classesandobjects/DrumKitTesting.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exerHeadFirst/classesandobjects/DogTesting.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/classesandobjects/DogTesting.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/Animal.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Lion.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/exerHeadFirst/subclassesandsuperclasses/FelineImpl.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Animal.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Vet.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Feline.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Canine.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Hippo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Cheetah.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Lynx.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Fox.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/Wolf.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/superandsub/AnimalsTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/Jump.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/DuckFactory.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/Swim.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/RealDuck.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ch3/DuckFactoryTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="65" lean-forward="true" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/ToyDuck.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch3/BasicInheritance/Duck.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Cheetah.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="57" selection-start-column="57" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Fox.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Lion.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="68" selection-start-column="68" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Lynx.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="70" selection-start-column="70" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Vet.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="70" selection-start-column="70" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Wolf.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" selection-start-line="6" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Feline.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Canine.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Hippo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Animal.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Roamable.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/Vehicle.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/dataclass/Recipes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/subclassesandsuperclasses/abstractandinterface/AnimalsTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/dataclass/overloadinganddefaultparams/Recipes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="51" selection-start-line="2" selection-start-column="19" selection-end-line="5" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/dataclass/overloadinganddefaultparams/Mushroom.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/headfirstkotlin/dataclass/overloadinganddefaultparams/RecipesFinalTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
         </state>
       </provider>
     </entry>

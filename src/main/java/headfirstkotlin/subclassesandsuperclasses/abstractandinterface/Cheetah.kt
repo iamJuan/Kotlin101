@@ -1,0 +1,3 @@
+package headfirstkotlin.subclassesandsuperclasses.abstractandinterface
+
+class Cheetah

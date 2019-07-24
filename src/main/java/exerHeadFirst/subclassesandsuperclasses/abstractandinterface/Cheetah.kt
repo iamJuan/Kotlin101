@@ -1,3 +1,0 @@
-package exerHeadFirst.subclassesandsuperclasses.abstractandinterface
-
-class Cheetah
