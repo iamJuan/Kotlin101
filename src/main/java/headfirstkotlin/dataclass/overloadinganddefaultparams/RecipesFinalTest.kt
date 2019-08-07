@@ -14,6 +14,7 @@ fun main(){
     println("r1 == r2 ? ${r1 == r2}")
     println("r1 === r2 ? ${r1 === r2}")
     println("r1 == r3 ? ${r1 == r3}")
+
     val (title, mainIngredient, vegetarian, difficulty) = r1
     println("title is $title and vegetarian is $vegetarian")
 
@@ -28,6 +29,9 @@ fun main(){
 
     println(addNumbers(6, 2))
     println(addNumbers(5.5, 2.5))
+
+    val recipe = findRecipes("Menudo", "pork cubes")
+    println("Recipe is ${recipe[0].title}\nmain ingredient is ${recipe[0].mainIngredient}")
 }
 
 fun findRecipes(title : String = "", ingredient : String = "",
