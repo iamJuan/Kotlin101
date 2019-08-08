@@ -249,7 +249,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+<<<<<<< HEAD
+  <component name="RunManager" selected="Kotlin.headfirstkotlin.dataclass.overloadinganddefaultparams.RecipesFinalTestKt">
+=======
+  <component name="RunManager" selected="Kotlin.headfirstkotlin.lambdas.GroceriesCodeMagnetKt">
+>>>>>>> HEADFIRST_LAMBDAS
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method>
