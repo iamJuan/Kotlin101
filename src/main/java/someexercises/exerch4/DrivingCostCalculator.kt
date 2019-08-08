@@ -1,4 +1,4 @@
-package someexercises.ExerCh4
+package someexercises.exerch4
 
 class DrivingCostCalculator{
     var total : Float = 0.0f

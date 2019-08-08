@@ -1,4 +1,4 @@
-package someexercises.ExerCh4
+package someexercises.exerch4
 
 class CreditLimit( val acctNo : String, val initBal : Float, var totalItems : Int, val totalCredit : Float, val creditLimit : Float){
     private val charges = totalItems * 100.00f;

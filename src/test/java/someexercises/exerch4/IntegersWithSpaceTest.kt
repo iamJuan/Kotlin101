@@ -1,4 +1,4 @@
-package someexercises.ExerCh4
+package someexercises.exerch4
 
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test

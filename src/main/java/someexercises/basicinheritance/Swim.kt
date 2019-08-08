@@ -1,4 +1,4 @@
-package someexercises.BasicInheritance
+package someexercises.basicinheritance
 
 interface Swim {
     fun canSwim() : Boolean

@@ -1,4 +1,4 @@
-package someexercises.ExerCh4
+package someexercises.exerch4
 
 class PerfectNumber{
 

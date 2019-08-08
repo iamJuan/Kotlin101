@@ -1,4 +1,4 @@
-package someexercises.BasicInheritance
+package someexercises.basicinheritance
 
 class DuckFactory{
     fun getDuck(type : String) : Duck? {

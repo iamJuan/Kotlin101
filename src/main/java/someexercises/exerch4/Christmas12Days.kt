@@ -1,4 +1,4 @@
-package someexercises.ExerCh4
+package someexercises.exerch4
 
 public enum class Christmas12Days(val item: String){
     PARTRIDGE("PARTRIDGE"), TURTLEDOVES("TURTLE DOVES"), FRENCHHENS("FRENCH HENS"), CALLINGBIRDS("CALLING BIRDS"), GOLDRINGS("GOLD RINGS"), GEESE("GEESE"),

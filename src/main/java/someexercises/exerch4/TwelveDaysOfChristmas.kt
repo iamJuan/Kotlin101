@@ -1,4 +1,4 @@
-package someexercises.ExerCh4
+package someexercises.exerch4
 
 class TwelveDaysOfChristmas {
     fun getItem(given: Int) : Christmas12Days{

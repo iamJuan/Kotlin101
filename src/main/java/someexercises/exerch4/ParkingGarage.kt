@@ -1,4 +1,4 @@
-package someexercises.ExerCh4
+package someexercises.exerch4
 
 class ParkingGarage{
     val addtlCharge : Float = 0.50f

@@ -1,4 +1,4 @@
-package someexercises.BasicInheritance
+package someexercises.basicinheritance
 
 class ToyDuck : Duck, Jump, Swim {
     constructor() : super(false, false, 0)
